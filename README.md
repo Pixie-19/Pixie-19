@@ -50,15 +50,6 @@
 </div>
 
 
-
-<h2 align="center">Github Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pixie-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixie-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top langs"  />
-  <br />
-
-
 <h1 align="center">GitHub Activity Graph</h1>
 <p align="center">
   <a href="https://github.com/Pixie-19">
